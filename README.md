@@ -174,7 +174,7 @@ With your project (`variable-assignment`) open in vscode
       - commit the changes, do not forget to add a message of the changes you make
       - push the changes to github
       - verify if the changes were pushed to github
-      - Congratulations, you have successfully styled the html code
+      - Congratulations, you have successfully staged, committed, and pushed your changes.
 ## Submitting the assignment
   - Method1 - by sending email
     - send me the link of the repo's url to my email address.
