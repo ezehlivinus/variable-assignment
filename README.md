@@ -54,7 +54,8 @@ Follow the instruction below to demonstrate your understanding of variable.
 ## Assignment Instructions
 With your project (`variable-assignment`) open in vscode
 ### Files
-  - You will see three files
+  - You will see three files and a folder
+    - `images/`
     - `README.md`
     - `index.html`
     - `script.js`
