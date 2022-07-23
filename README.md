@@ -180,7 +180,7 @@ With your project (`variable-assignment`) open in vscode
     - send me the link of the repo's url to my email address.
     - if you have chosen the repo name to be `variable-assignment-solution`, the url should be `https://github.com/youu-github-username/variable-assignment-solution`
   - Method2 - adding a contributor
-![script.js](images/add-contributors.png)
+![add contributors](images/add-contributors.png)
     - Add me as your contributor, to do this, do the following
     - Go to your repo and click on the `settings` button.
     - click on `collaborators`
