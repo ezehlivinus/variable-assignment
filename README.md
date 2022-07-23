@@ -33,6 +33,7 @@ Follow the instruction below to demonstrate your understanding of variable.
       ```
     - if the command above works fine you will not see any errors or message, if not, you will see an error message,
 ### Open the project with your vscode (visual studio code)
+You can open the project in several ways, open using either the first method or the second method
   - First method:
     - from your desktop, open the folder named `variable-assignment`
     - right click inside the folder, but not on a file or folder, a context menu will appear,
@@ -85,7 +86,6 @@ With your project (`variable-assignment`) open in vscode
 ### Writing the code
   - Open the file named `script.js`
     - It should look like this: ![script.js](images/script.js.png)
-    - You will see a message: `Please write your code in the script.js file` ![message](images/script-error-message.png.png)
   - You still remember how to create a variable? you are correct, you can create a variable in javascript by using the following syntax:
     ```
     let variableName = value;
@@ -177,11 +177,11 @@ With your project (`variable-assignment`) open in vscode
       - verify if the changes were pushed to github
       - Congratulations, you have successfully styled the html code
 ## Submitting the assignment
-  - Method1
-    - send me the link of the repo url to email.
+  - Method1 - by sending email
+    - send me the link of the repo's url to my email address.
     - if you have chosen the repo name to be `variable-assignment-solution`, the url should be `https://github.com/youu-github-username/variable-assignment-solution`
-  - Method2
-    - Add me as your contributor
+  - Method2 - adding a contributor
+    - Add me as your contributor, to do this, do the following
     - Go to your repo and click on the `settings` button.
     - click on `collaborators`
     - confirm your password
