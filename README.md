@@ -80,7 +80,7 @@ With your project (`variable-assignment`) open in vscode
       <script src="./script.js"></script>
       ```
     - save the file
-    - goto to your browser, and refresh the file in vscode, the result should look like this:
+    - goto to your browser, and refresh, the result should look like this:
       ![script linked properly](images/script-linked-properly.png)
     - congratulations, you have successfully fixed the error(bug) in the html file
 ### Writing the code
