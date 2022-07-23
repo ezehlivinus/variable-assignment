@@ -183,7 +183,7 @@ With your project (`variable-assignment`) open in vscode
   - Method2 - adding a contributor(collaborator)
 ![add contributors](images/add-collaborators.png)
     - Add me as your contributor, to do this, do the following
-    - Go to your, example https://github.com/your-github-username/variable-assignment-solution and click on the `settings` button.
+    - Go to your, example `https://github.com/your-github-username/variable-assignment-solution` and click on the `settings` button.
     - click on `collaborators`
     - confirm your password
     - click on `Add people`
