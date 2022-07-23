@@ -1,6 +1,7 @@
 # Variable-Assignment
 Follow the instruction below to demonstrate your understanding of variable.
 ## Usage
+`You are adviced to follow the instruction carefully. Read and do what each instruction says before moving to the next instruction.`
 ### Cloning the repository
   - clone this repository to your local computer (machine)
     - copy the repo's remote https url by clicking the green button named, `code` above ![cloning-link](images/how-to-clone.png)
