@@ -73,7 +73,7 @@ With your project (`variable-assignment`) open in vscode
       ```
       <script src="./script/.js/"></script>
       ```
-    - From your knowledge of html and javascript, you noticed the bug in the line, and you decide to fix it by lining the script properly
+    - From your knowledge of html and javascript, you noticed the bug in the line, and you decide to fix it by linking the script properly
     - Yes the bug was caused by the wrong path (`./script/.js/`), the correct path is `./script.js`
     - replace or change line 17 with the following line:
       ```
