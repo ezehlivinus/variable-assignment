@@ -64,7 +64,6 @@ With your project (`variable-assignment`) open in vscode
 
 ### Running the html file
   - Run your `index.html` file the usual way, of course by opening it in your browser
-  - You will the message: `Please link (include) your JavaScript file into the html documents properly` ![message](images/html-error-message.png.png)
   - Oops, there is an error, you need to link your `script.js` file into the html document properly
 ### Fixing the error
   - Go to your vscode and open the file named `index.html`
